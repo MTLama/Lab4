@@ -1,0 +1,28 @@
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\zaika\OneDrive\Документы\Visual Studio 2022\hebron\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+H:\hebron\lab4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\hebron\lab4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\hebron\lab4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\hebron\lab4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\hebron\lab4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\hebron\lab4\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
